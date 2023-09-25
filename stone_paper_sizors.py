@@ -1,6 +1,9 @@
-import random
 #  stone paper sizor game
-# author milkosy(YASH YADAV)
+# author YASH YADAV
+
+
+import random
+
 def win(comp,you):
     if you==comp:
         return None
